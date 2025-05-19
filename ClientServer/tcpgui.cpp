@@ -1,4 +1,4 @@
-// GUI TCP Client and Server
+// GUI TCP Client and Server by Nathan W Jones nat@davaosecurity.com
 // install Qt https://www.qt.io/download-dev
 // Ensure you have a C++ compiler set up with Qt.
 
